@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "mass_profiles": 1431,
+  "mass_time_range_s": [
+    0.0,
+    1.1990773452573176
+  ],
+  "negative_ghost_cells_per_block": [
+    4
+  ],
+  "nonnegative_zones_per_block": [
+    704
+  ],
+  "retained_zones_per_block": [
+    700
+  ],
+  "temperature_rows": 13093,
+  "bounce_time_s": 0.22406860474953616,
+  "disk_cache_exact_roundtrip": true,
+  "static_profiles_exported": true,
+  "postbounce_quicklook_exported": true,
+  "line_gif_exported": true,
+  "polar_gif_exported": true
+}
